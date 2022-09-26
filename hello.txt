@@ -1,0 +1,1 @@
+welcome to my node checkpoint here an example of reading and consol log content of this file 
